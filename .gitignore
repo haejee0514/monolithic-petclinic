@@ -19,3 +19,7 @@ _site/
 
 *.bak
 .DS_Store
+
+# Gradle build files
+build/
+.gradle/
